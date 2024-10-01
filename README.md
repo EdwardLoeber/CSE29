@@ -1,1 +1,1 @@
-# CSE29
+# UCSD CSE29 class lab1
